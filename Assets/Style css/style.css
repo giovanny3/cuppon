@@ -1,0 +1,54 @@
+
+.navbar {
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  }
+
+  .row h5{ 
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .row p{ 
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.navbar-expand-lg img {
+    height: 25px 
+}
+ .container-fluid {
+    background-color: #28a745;
+    color: white;
+ }
+
+ .formulario-color {
+    background-color: #28a745;
+}
+.informacion-cupones {
+    font-size: 1.3em;
+    font-weight: 500;
+}
+.text-center {
+    text-align: center!;
+}
+
+.logo-black-footer {
+    text-align: center;
+}
+.logo-black {
+    height: 24px;
+}
+
+.card-footer{
+    text-align: right;
+}
+
+.row{
+    justify-content: center;
+}
+
+
